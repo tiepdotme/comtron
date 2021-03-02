@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b0d5281b4afe7121f7a614f8a079696b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.79683078540f79aa0174d0b06cf6bb0a.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.a39abbf7186c45bcf11fe6d780ba0ec1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.4605327d5ee821ec3761203e1b1c8614.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.d2fa4de7a06d2efe9540e0ab25bace30.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "centro-fogoes",
+  "short_name": "centro-fogoes",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "centro-fogoes",
+  "background_color": "#fff",
+  "theme_color": "#313131"
+}
